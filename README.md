@@ -52,7 +52,7 @@ Soy un **Ingeniero Informático** con experiencia en el desarrollo de aplicacion
 ## 📞 Contáctame
 
 - **LinkedIn:** [Felipe Zamorano](https://www.linkedin.com/in/felipe-zamorano-barrera-b92aa4165/)
-- **Email:** [felipe.zamorano@example.com](mailto:felipe.1997.ignacio@gmail.com)
+- **Email:** [felipe.1997.ignacio@gmail.com](mailto:felipe.1997.ignacio@gmail.com)
 
 ---
 
