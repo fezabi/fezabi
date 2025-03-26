@@ -1,13 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
-    <h1>Bienvenido a mi portafolio</h1>
-    <h3>
-        Mi nombre es Felipe Zamorano, soy Ingeniero Informático, capacitado para analizar, diseñar y desarrollar
-        proyectos orientados a la web, en diferentes lenguajes de programación, frameworks y patrones de diseño.
-    </h3>
 </div>
 
----
+# Bienvenido a mi portafolio
 
 ## 🌐 ¿Quién soy?
 
@@ -56,7 +51,7 @@ Soy un **Ingeniero Informático** con experiencia en el desarrollo de aplicacion
 
 ## 📞 Contáctame
 
-- **LinkedIn:** [Felipe Zamorano]([https://www.linkedin.com/in/felipe-zamorano/](https://www.linkedin.com/in/felipe-zamorano-barrera-b92aa4165/))
+- **LinkedIn:** [Felipe Zamorano](https://www.linkedin.com/in/felipe-zamorano-barrera-b92aa4165/)
 - **Email:** [felipe.zamorano@example.com](mailto:felipe.1997.ignacio@gmail.com)
 
 ---
