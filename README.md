@@ -3,13 +3,9 @@
 </div>
 
 # Bienvenido a mi portafolio
-
 ---
-
 ## 🌐 ¿Quién soy?
-
 ---
-
 Soy un **Ingeniero Informático** con experiencia en el desarrollo de aplicaciones web, automatización de procesos y optimización de flujos de trabajo. Mi enfoque es brindar soluciones innovadoras utilizando una variedad de tecnologías. Estoy continuamente aprendiendo y buscando formas de mejorar mis habilidades y conocimientos.
 
 ---
